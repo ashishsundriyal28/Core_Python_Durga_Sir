@@ -69,3 +69,16 @@ print("Sundriyal")
 
 # Continue from 9:00 end attribute
 
+# ---------------------------------------------------
+# Case-6 : sep and end attribute using together
+# ---------------------------------------------------
+print(10,20,30, sep=":", end="***")
+print(40,50,60, sep=":")
+print(70,80, sep="**", end="$$")
+print(90,100)
+
+
+print("Ashish"+"Sundriyal") # OUTPUT => AshishSundriyal
+print("Ashish", "Sundriyal") # OUTPUT => Ashish Sundriyal
+
+
