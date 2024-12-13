@@ -14,6 +14,29 @@
 # --------------------------------------------------------------------------------------------------
 # ----------------------- For loop ------------------------------------------
 # --------------------------------------------------------------------------------------------------
+# for every element, present in the sequence (list, tuple, set, dict, string, range), 
+# if you want to perform any activity, then we go for => FOR LOOP
+
+# SYNTAX : 
+# for x in sequence:
+    # do_any_activity
+
+# Explaination : 
+# for every element x, present inside the given sequence
+
+# Example : 
+
+s = "Ashish Sundriyal"
+i=0
+for x in s:
+    print("The char present at index {} = {}".format(i,x))
+    i+=1
+
+
+
+
+
+
 
 
 
