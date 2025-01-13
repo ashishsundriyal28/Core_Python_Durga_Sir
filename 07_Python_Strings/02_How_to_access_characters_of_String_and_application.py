@@ -23,15 +23,3 @@ i=0
 for x in s:
     print(f'''The character at +ve index {i} and -ve index {i-len(s)} is {x}''')
     i=i+1
-
-
-
-
-
-
-
-
-
-
-
-
